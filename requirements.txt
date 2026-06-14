@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic>=2.0.0
+python-multipart
+supabase
+pydantic[email]
